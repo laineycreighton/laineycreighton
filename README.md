@@ -45,6 +45,6 @@ My career shift reflects my determination to embrace challenges head-on and evol
 
 [![Email](./images/mail.svg)](mailto:dev.lainey@gmail.com) &nbsp;&nbsp;&nbsp; [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/lainey-creighton/) &nbsp;&nbsp;&nbsp; [![Portfolio](./images/briefcase.svg)](https://laineycreighton.netlify.app/) &nbsp;&nbsp;&nbsp; [![GitHub](./images/github.svg)](https://github.com/laineycreighton)
 
-<br>
+<!-- <br>
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laineycreighton&theme=blue-green) &nbsp;&nbsp;&nbsp; ![GitHub Score](https://github-readme-stats.vercel.app/api?username=laineycreighton&theme=blue-green)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laineycreighton&theme=blue-green) &nbsp;&nbsp;&nbsp; ![GitHub Score](https://github-readme-stats.vercel.app/api?username=laineycreighton&theme=blue-green) -->
