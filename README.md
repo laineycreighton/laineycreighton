@@ -1,4 +1,4 @@
-# <img src="./images/lainey.png" alt="header" width="100%">
+# <img src="./images/full-stack-developer.png" alt="header" width="100%">
 
 
 
