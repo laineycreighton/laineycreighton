@@ -1,20 +1,5 @@
 # <img src="./images/name-banner.png" alt="header" width="100%">
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-
-<div height="300px" width="auto">
-
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laineycreighton&theme=blue-green)
-</div>
-
-<div height="300px" width="auto">
-
-![GitHub Score](https://github-readme-stats.vercel.app/api?username=laineycreighton&theme=blue-green)
-</div>
-</div>
-
-
-
 ## <img src="./images/square-about.png" alt="about" width="30%">
 
 <div style="text-align: center">
@@ -81,3 +66,15 @@ My career shift reflects my determination to embrace challenges head-on and evol
 ## <img src="./images/square-contact.png" alt="contact" width="30%">
 
 
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+
+<div height="300px" width="auto">
+
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laineycreighton&theme=blue-green)
+</div>
+
+<div height="300px" width="auto">
+
+![GitHub Score](https://github-readme-stats.vercel.app/api?username=laineycreighton&theme=blue-green)
+</div>
+</div>
