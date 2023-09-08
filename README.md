@@ -2,7 +2,7 @@
 
 <br>
 
-## <img src="./images/square-about.png" alt="about" width="30%">
+## <img src="./images/square-about.png" alt="about" width="40%">
 
 
 ### WELCOME!
@@ -14,7 +14,7 @@ My career shift reflects my determination to embrace challenges head-on and evol
 
 <br>
 
-## <img src="./images/square-technologies.png" alt="technologies" width="30%">
+## <img src="./images/square-technologies.png" alt="technologies" width="40%">
 
 ### Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -39,7 +39,7 @@ My career shift reflects my determination to embrace challenges head-on and evol
 
 <br>
 
-## <img src="./images/square-contact.png" alt="contact" width="30%">
+## <img src="./images/square-contact.png" alt="contact" width="40%">
 
 ### Contact me using the information below:
 
