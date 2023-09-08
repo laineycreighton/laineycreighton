@@ -43,7 +43,7 @@ My career shift reflects my determination to embrace challenges head-on and evol
 
 ### Contact me using the information below:
 
-[![Email](./images/mail.svg)](mailto:dev.lainey@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/lainey-creighton/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Portfolio](./images/briefcase.svg)](https://laineycreighton.netlify.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub](./images/github.svg)](https://github.com/laineycreighton)
+[![Email](./images/mail.svg)](mailto:dev.lainey@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/lainey-creighton/) &nbsp;&nbsp;&nbsp;&nbsp; [![Portfolio](./images/briefcase.svg)](https://laineycreighton.netlify.app/) &nbsp;&nbsp;&nbsp;&nbsp; [![GitHub](./images/github.svg)](https://github.com/laineycreighton)
 
 <!-- <br>
 
