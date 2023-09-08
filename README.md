@@ -66,7 +66,7 @@ My career shift reflects my determination to embrace challenges head-on and evol
 ## <img src="./images/square-contact.png" alt="contact" width="30%">
 
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+<!-- <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
 
 <div height="300px" width="auto">
 
@@ -77,4 +77,4 @@ My career shift reflects my determination to embrace challenges head-on and evol
 
 ![GitHub Score](https://github-readme-stats.vercel.app/api?username=laineycreighton&theme=blue-green)
 </div>
-</div>
+</div> -->
