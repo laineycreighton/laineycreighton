@@ -2,14 +2,13 @@
 
 
 
-
-## <img src="./images/about.png" alt="about" width="400">
-
-
-
-## <img src="./images/technologies.png" alt="technologies" width="400">
+## <img src="./images/square-technologies.png" alt="technologies" width="50%">
 
 
 
-## <img src="./images/contact.png" alt="contact" width="400">
+## <img src="./images/square-about.png" alt="about" width="50%">
+
+
+
+## <img src="./images/square-contact.png" alt="contact" width="50%">
 
