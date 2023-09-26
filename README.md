@@ -7,7 +7,7 @@
 
 ### WELCOME!
 
-Hello, I'm Lainey Creighton, a passionate software developer on a transformative journey. With a solid foundation in hospitality and events management, where I honed my skills for over eight years, I'm now venturing into the dynamic realm of software development. Currently pursuing a full stack certification from UC Berkeley, I am driven by an insatiable curiosity and a thirst for knowledge.
+Hello, I'm Lainey Creighton, a passionate software developer on a transformative journey. With a solid foundation in hospitality and events management, where I honed my skills for over eight years, I'm now venturing into the dynamic realm of software development. I recently obtained a full stack web development certification from UC Berkeley, I am driven by an insatiable curiosity and a thirst for knowledge.
 
 
 My career shift reflects my determination to embrace challenges head-on and evolve in a rapidly changing industry. Armed with a rich background in customer-centric environments, I understand the value of seamless experiences and efficient systems. As I transition into the world of code, I am excited to merge my creative problem-solving abilities with the precision of programming.
